@@ -4,4 +4,3 @@ line three
 asdfasdf
 line five
 sdf
-new line
